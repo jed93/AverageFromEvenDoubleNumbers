@@ -1,0 +1,6 @@
+\\Mac\Home\Documents\Visual Studio 2017\Projects\AverageFromEvenDoubleNumbers_CSharp\AverageFromEvenDoubleNumbers_CSharp\bin\Debug\AverageFromEvenDoubleNumbers_CSharp.exe.config
+\\Mac\Home\Documents\Visual Studio 2017\Projects\AverageFromEvenDoubleNumbers_CSharp\AverageFromEvenDoubleNumbers_CSharp\bin\Debug\AverageFromEvenDoubleNumbers_CSharp.exe
+\\Mac\Home\Documents\Visual Studio 2017\Projects\AverageFromEvenDoubleNumbers_CSharp\AverageFromEvenDoubleNumbers_CSharp\bin\Debug\AverageFromEvenDoubleNumbers_CSharp.pdb
+\\Mac\Home\Documents\Visual Studio 2017\Projects\AverageFromEvenDoubleNumbers_CSharp\AverageFromEvenDoubleNumbers_CSharp\obj\Debug\AverageFromEvenDoubleNumbers_CSharp.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2017\Projects\AverageFromEvenDoubleNumbers_CSharp\AverageFromEvenDoubleNumbers_CSharp\obj\Debug\AverageFromEvenDoubleNumbers_CSharp.exe
+\\Mac\Home\Documents\Visual Studio 2017\Projects\AverageFromEvenDoubleNumbers_CSharp\AverageFromEvenDoubleNumbers_CSharp\obj\Debug\AverageFromEvenDoubleNumbers_CSharp.pdb
